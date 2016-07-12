@@ -1,5 +1,5 @@
 package prob5;
 
 public interface Resizable {
-	void resize(double rate);
+	public void resize(double rate);
 }
